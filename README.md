@@ -1,2 +1,1 @@
-# knygynas
-Knygynas Informacinei sistemai
+
